@@ -47,9 +47,9 @@ export default function Home() {
 
           {/* Header Section */}
           <div className="text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Experience</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">timelines of Indonesia</h2>
             <p className="text-lg text-gray-600 dark:text-gray-400">
-              internship, freelance and laboratory assistant experience
+              everything that happened in Indonesia since 2026 is recorded here
             </p>
           </div>
 
@@ -59,7 +59,7 @@ export default function Home() {
             {/* Iframe Timeline dengan atribut yang benar */}
             <div className="relative z-10">
               <iframe
-                src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vR9Ww9WUkrzxxWnq-zaI9JG68wTLiV8FVTvsmjCGyioiTog8enF1afXs0W151XVskf8Y0MJETZ5K6HF&font=Default&lang=en&initial_zoom=2&width=100%25&height=650'
+                src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSvDT6jkAFoyzk9VgRKxABAQYdibRNqlUfLdeIqkcCpYid2N6MHPptJYBkvBNBUap5ZTiNZijeJOFkc&font=Default&lang=id&initial_zoom=2&width=100%25&height=650'
                 width="100%"
                 height="650"
                 // Vendor prefixes sebagai string
